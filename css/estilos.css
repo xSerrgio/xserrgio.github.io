@@ -1,0 +1,93 @@
+body{
+	/*background-image: url{"img/fondo.gif"}*/
+	background:grey;
+	
+}
+
+.header img
+{
+	width:10%;
+	text-align: center;	
+	
+}
+.slider img
+{
+	width:100%;
+}
+.container
+{
+	border-radius:15px;
+	background:#FF0000;
+	width:100%;
+	margin:auto;
+		text-align: center;	
+
+}
+
+.row
+{
+	display:inline;
+	background:#FF0000;
+}
+
+.col
+{
+	display:inline-block;
+	width:30%;
+}
+
+.col h2
+{
+	
+}
+
+.col img
+{
+	text-align:center;
+}
+
+.top
+{
+	
+}
+
+
+
+.menu
+{
+	float:right;	
+}
+
+.menu li
+{
+	display:inline-block;
+		margin-right:40px;
+
+}
+
+.sombra {
+    border-radius: 8px;
+    box-shadow: 0 8px 8px 0 #FFFFFF;
+}
+
+.sombra2 {
+    border-radius: 12px;
+    box-shadow: 0 8px 8px 0 #FF00FF;
+}
+
+.menu a:hover
+{
+	text-decoration:underline;
+	color:black;
+	padding:10px;
+	background:red;
+	
+}
+…
+
+.footer
+{
+		
+}
+…
+
